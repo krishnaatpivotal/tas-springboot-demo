@@ -1,8 +1,6 @@
-# PCF Elastic Runtime Basic Demo Labs
-A set of labs that help you understand PCF and this application. 
+# TAS/PCF Spring Boot App Demo Labs
+A set of labs that help you understand TAS/PCF and this application. 
 You can run them in no particular order, but below is our suggestion. 
-
-Tested with PCF 1.11, PCFDev, Pivotal Web Services and PEZ (Internal Pivotal Environment)
 
 * [PCF PUSH](https://github.com/krishnaatpivotal/tas-springboot-demo/tree/master/Labs/Application_Push/lab_application_push.adoc)
 * [Logging, Scale and HA](https://github.com/krishnaatpivotal/tas-springboot-demo/tree/master/Labs/Logging_Scale_HA/lab_logging_scale_ha.adoc)
