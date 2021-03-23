@@ -8,10 +8,10 @@ Base application to demonstrate PCF ERS
 As you all know, we often transform other work into our own. This is all based from Andrew Ripka's [cf-workshop-spring-boot github repo](https://github.com/pivotal-cf-workshop/cf-workshop-spring-boot) with some basic modifications.
 
 ## Introduction
-This base application is intended to demonstrate some of the basic functionality of PCF ERS:
+This base application is intended to demonstrate some of the basic functionality of TAS:
 
-* PCF api, target, login, and push
-* PCF environment variables
+* TAS api, target, login, and push
+* TAS environment variables
   * Spring Cloud Profiles
 * Scaling, self-healing, router and load balancing
 * RDBMS service and application auto-configuration
