@@ -7,7 +7,6 @@ You can run them in no particular order, but below is our suggestion.
 * [Services](https://github.com/krishnaatpivotal/tas-springboot-demo/tree/master/Labs/Services/lab_services.adoc)
 * [Blue Green Deployment](https://github.com/krishnaatpivotal/tas-springboot-demo/tree/master/Labs/Blue_Green/lab_blue_green.adoc)
 * [Buildpacks](https://github.com/krishnaatpivotal/tas-springboot-demo/tree/master/Labs/Buildpacks/lab_buildpack.adoc)
-* [Spring Boot Integration ]()
 
 ## Workshop Site
 
