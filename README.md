@@ -21,9 +21,9 @@ This base application is intended to demonstrate some of the basic functionality
 
 **Prerequisites**
 - [Cloud Foundry CLI](http://info.pivotal.io/p0R00I0eYJ011dAUCN06lR2)
-- [Git Client](http://info.pivotal.io/i1RI0AUe6gN00C010l12J0R)
-- An IDE, like [Spring Tool Suite](http://info.pivotal.io/f00RC0N0lh01eU21IAJ260R)
-- [Java SE Development Kit](http://info.pivotal.io/n0I60i3021AN0JU0le10CRR)
+- [Git Client](https://git-scm.com/downloads)
+- An IDE, like [Spring Tool Suite](https://spring.io/tools)
+- [Java SE Development Kit](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 **Building**
 ```
